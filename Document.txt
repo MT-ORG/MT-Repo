@@ -2,4 +2,5 @@ Test Again
 Modified Directly
 Merge conflict
 Creating merge conflict
+locally merging merge conflict
 
